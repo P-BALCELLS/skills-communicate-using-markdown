@@ -4,3 +4,7 @@ This is a test.
 ``` javascript
 var myVar = "Hello, world!";
 ```
+
+- [ ] item 1
+- [ ] item 2
+- [ ] item 3
